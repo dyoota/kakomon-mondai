@@ -1,53 +1,96 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>ExamMaster AI ポータル</title>
   <style>
+    * { box-sizing: border-box; }
     body {
       margin: 0;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       background: #050816;
       color: #e5e7eb;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
     }
     header {
       padding: 16px 24px;
-      border-bottom: 1px solid #1f2933;
+      border-bottom: 1px solid #111827;
       display: flex;
       justify-content: space-between;
       align-items: center;
+      background: #020617;
     }
     header h1 {
       font-size: 20px;
       margin: 0;
     }
-    header a {
-      color: #38bdf8;
-      text-decoration: none;
-      font-size: 14px;
-    }
     main {
-      height: calc(100vh - 57px); /* headerぶん引く */
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      text-align: center;
     }
-    iframe {
-      width: 100%;
-      height: 100%;
-      border: none;
+    p {
+      margin: 8px 0 24px;
+      color: #9ca3af;
+    }
+    .btn {
+      display: inline-block;
+      padding: 12px 28px;
+      border-radius: 999px;
+      background: #4f46e5;
+      color: #f9fafb;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: 600;
+      box-shadow: 0 10px 25px rgba(79,70,229,0.35);
+      transition: transform 0.1s ease, box-shadow 0.1s ease, background 0.1s ease;
+    }
+    .btn:hover {
+      background: #6366f1;
+      transform: translateY(-1px);
+      box-shadow: 0 16px 30px rgba(79,70,229,0.45);
+    }
+    .btn:active {
+      transform: translateY(0);
+      box-shadow: 0 8px 18px rgba(79,70,229,0.35);
+    }
+    footer {
+      padding: 8px 16px;
+      text-align: center;
+      font-size: 12px;
+      color: #6b7280;
+      border-top: 1px solid #111827;
+      background: #020617;
     }
   </style>
 </head>
 <body>
   <header>
     <h1>ExamMaster AI</h1>
-    <a href="https://ai.studio/apps/drive/ここを自分のURLに変える" target="_blank">
+    <a href="https://ai.studio/apps/drive/https://ai.studio/apps/drive/1SD7vGw3JRRVPNdjE9sn7oAeqQn1_hqxo" target="_blank" style="color:#38bdf8; font-size:14px; text-decoration:none;">
       AI Studio で開く ↗
     </a>
   </header>
+
   <main>
-    <iframe
-      src="https://ai.studio/apps/drive/ここを自分のURLに変える"
-      allow="clipboard-write; clipboard-read; microphone;">
-    </iframe>
+    <h2>過去問 × AI で合格率をブースト</h2>
+    <p>
+      下のボタンをクリックすると、ExamMaster AI アプリが新しいタブで開きます。<br />
+      資格試験名や難易度を入力して、AIが学習プランと問題を自動生成します。
+    </p>
+    <a class="btn" href="https://ai.studio/apps/drive/https://ai.studio/apps/drive/1SD7vGw3JRRVPNdjE9sn7oAeqQn1_hqxo" target="_blank">
+      ExamMaster AI を開く ↗
+    </a>
   </main>
+
+  <footer>
+    © 2025 ExamMaster AI / でる
+  </footer>
 </body>
 </html>

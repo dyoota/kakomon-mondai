@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="520" viewBox="0 0 750 520">
+  <foreignObject x="0" y="0" width="750" height="520">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&amp;family=Montserrat:wght@800;900&amp;display=swap"/>
+        <style><![CDATA[
+          *{box-sizing:border-box;margin:0;padding:0;-webkit-font-smoothing:antialiased;}
+          body{width:750px;height:520px;overflow:hidden;background:#fff;padding:28px 32px;}
+          .section-title{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:13px;font-weight:900;color:#64748b;letter-spacing:0.1em;margin-bottom:16px;}
+          h3{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:18px;font-weight:900;color:#1e293b;margin-bottom:16px;padding-left:16px;border-left:5px solid #2563eb;}
+          table{width:100%;border-collapse:collapse;font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:13px;}
+          th,td{padding:12px 14px;border:1px solid #334155;text-align:left;vertical-align:top;line-height:1.65;}
+          th{background:#0f172a;color:#fff;font-weight:900;}
+          .bad{background:#fef2f2;}
+          .bad .tag{color:#ef4444;font-weight:900;display:block;margin-bottom:4px;font-size:13px;}
+          .good{background:#f0fdf4;}
+          .good .tag{color:#10b981;font-weight:900;display:block;margin-bottom:4px;font-size:13px;}
+        ]]></style>
+      </head>
+      <body>
+        <div class="section-title">第4章 / ペルソナ設計応用編</div>
+        <h3>彼らが「買わない理由」と破壊のロジック</h3>
+        <table>
+          <tr>
+            <th style="width:35%;">買わない理由（疑念）</th>
+            <th style="width:65%;">破壊する施策（解決策）</th>
+          </tr>
+          <tr>
+            <td class="bad"><span class="tag">既視感（また同じか）</span></td>
+            <td class="good"><span class="tag">独自テンプレの提供</span>高付加価値の独自性とテンプレート（ダウンロード素材）の提供。</td>
+          </tr>
+          <tr>
+            <td class="bad"><span class="tag">実績・再現性への不安</span></td>
+            <td class="good"><span class="tag">社会的証明の強化</span>自分と同じ規模の発信者が成果を出している証拠（スクショ）と、迷わせないチェックリストの提示。</td>
+          </tr>
+          <tr>
+            <td class="bad"><span class="tag">緊急性の欠如</span></td>
+            <td class="good"><span class="tag">段階的な値上げ設定</span>期間限定価格や、連載形式（来週値上げ）による理にかなった締め切りの設定。</td>
+          </tr>
+          <tr>
+            <td class="bad"><span class="tag">投資メリットの不明確さ</span></td>
+            <td class="good"><span class="tag">回収ポイントの明示</span>高所得層には金額より「時短」「失敗回避」「収益レバレッジ」という投資回収ポイントを明確に示す。</td>
+          </tr>
+        </table>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="480" viewBox="0 0 750 480">
+  <foreignObject x="0" y="0" width="750" height="480">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&amp;family=Shippori+Mincho:wght@700;800&amp;family=Montserrat:wght@800;900&amp;display=swap"/>
+        <style><![CDATA[
+          *{box-sizing:border-box;margin:0;padding:0;-webkit-font-smoothing:antialiased;}
+          body{width:750px;height:480px;overflow:hidden;background:#0f172a;position:relative;}
+          .wrap{padding:72px 40px 60px;border-bottom:8px solid #2563eb;height:100%;}
+          .label{display:inline-block;background:#fde047;color:#0f172a;font-family:'Montserrat',sans-serif;font-weight:900;font-size:12px;padding:5px 16px;border-radius:50px;letter-spacing:0.12em;margin-bottom:28px;}
+          h1{font-family:'Shippori Mincho','Yu Mincho',serif;font-size:40px;line-height:1.38;font-weight:800;color:#fff;margin-bottom:36px;}
+          h1 span{color:#fde047;}
+          .lead{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:15px;color:#94a3b8;line-height:2;border-left:4px solid #2563eb;padding-left:20px;}
+        ]]></style>
+      </head>
+      <body>
+        <div class="wrap">
+          <div class="label">RECORD OF EXPERIMENTS</div>
+          <h1>noteは「情報」で勝負するな。<br/><span>意思決定を代行する</span><br/>完成品を置け。</h1>
+          <p class="lead">
+            AIで記事を量産しても売れない。値上げした瞬間、売上はゼロ。<br/>
+            絶望の中で私が気づいた「読者の迷いを消す構造」と、<br/>
+            1記事で億を稼ぐ天才（ひらかわ氏）のメタ構造を融合させた、<br/>
+            完全なる『思考圧縮アーキテクチャ』。
+          </p>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

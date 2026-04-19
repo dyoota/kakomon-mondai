@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="400" viewBox="0 0 750 400">
+  <foreignObject x="0" y="0" width="750" height="400">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&amp;family=Montserrat:wght@800;900&amp;display=swap"/>
+        <style><![CDATA[
+          *{box-sizing:border-box;margin:0;padding:0;-webkit-font-smoothing:antialiased;}
+          body{width:750px;height:400px;overflow:hidden;background:#0f172a;padding:48px 40px;text-align:center;}
+          h4{font-family:'Montserrat',sans-serif;font-size:26px;color:#fde047;margin-bottom:28px;letter-spacing:0.05em;}
+          .steps{text-align:left;margin-bottom:28px;}
+          p{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:15px;color:#fff;line-height:2.1;margin-bottom:0;}
+          strong{color:#fde047;}
+          .cta{background:rgba(255,255,255,0.08);display:inline-block;padding:16px 36px;border-radius:50px;border:2px solid #fde047;margin-top:4px;}
+          .cta span{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-weight:900;font-size:16px;color:#fde047;}
+        ]]></style>
+      </head>
+      <body>
+        <h4>Action Plan : 知識を「商品」に変換せよ</h4>
+        <div class="steps">
+          <p>
+            1. <strong>【コマンド00】</strong>をAIに読み込ませ、自分のURLを投げて「インサイト」を発掘する。<br/>
+            2. 発掘されたペルソナをもとに<strong>【コマンド01】</strong>を実行し、商品パッケージを作る。<br/>
+            3. 出来上がった記事を<strong>【コマンド02】</strong>でXのツリー投稿に変換して投下する。
+          </p>
+        </div>
+        <p style="font-size:17px;font-weight:900;margin-bottom:16px;">これこそが、あなたの「迷いのない1本」の始まりです。</p>
+        <div class="cta">
+          <span>実践したら、ぜひ私に結果報告をしてください！待ってます！</span>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

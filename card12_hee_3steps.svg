@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="440" viewBox="0 0 750 440">
+  <foreignObject x="0" y="0" width="750" height="440">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&amp;family=Montserrat:wght@800;900&amp;display=swap"/>
+        <style><![CDATA[
+          *{box-sizing:border-box;margin:0;padding:0;-webkit-font-smoothing:antialiased;}
+          body{width:750px;height:440px;overflow:hidden;background:#0f172a;padding:40px;}
+          h3{font-family:'Montserrat',sans-serif;font-size:20px;color:#fde047;margin-bottom:8px;text-align:center;letter-spacing:0.05em;}
+          .sub{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:13px;color:#64748b;text-align:center;margin-bottom:32px;}
+          .steps{display:flex;flex-direction:column;gap:16px;}
+          .step{display:flex;align-items:flex-start;gap:20px;background:rgba(255,255,255,0.05);border-radius:8px;padding:20px 24px;border-left:4px solid;}
+          .step:nth-child(1){border-color:#94a3b8;}
+          .step:nth-child(2){border-color:#2563eb;}
+          .step:nth-child(3){border-color:#fde047;}
+          .num{font-family:'Montserrat',sans-serif;font-size:32px;font-weight:900;flex-shrink:0;line-height:1;}
+          .step:nth-child(1) .num{color:#94a3b8;}
+          .step:nth-child(2) .num{color:#2563eb;}
+          .step:nth-child(3) .num{color:#fde047;}
+          .content{}
+          .hee{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:18px;font-weight:900;color:#fff;margin-bottom:4px;}
+          .hee span{color:#fde047;}
+          .desc{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:13px;color:#94a3b8;line-height:1.7;}
+          .footer{text-align:center;margin-top:20px;font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:13px;color:#64748b;line-height:1.7;}
+        ]]></style>
+      </head>
+      <body>
+        <h3>「へぇ！」の3連続が脳をハックする</h3>
+        <p class="sub">インサイトを3回連続で突かれると、読者は圧倒的な権威性を感じ「この人の言うことは全て正しい」と信頼する。</p>
+        <div class="steps">
+          <div class="step">
+            <div class="num">1</div>
+            <div class="content">
+              <div class="hee">無料部 ─ 「自分の課題は<span>そこ</span>だったのか！」</div>
+              <div class="desc">読者が気づいていなかった課題の核心を言語化し、問題を「見える化」する。</div>
+            </div>
+          </div>
+          <div class="step">
+            <div class="num">2</div>
+            <div class="content">
+              <div class="hee">有料部入口 ─ 「そんな解決策（構造）が<span>あるのか</span>！」</div>
+              <div class="desc">読者が考えもしなかったアプローチで問題を解決する構造を提示する。</div>
+            </div>
+          </div>
+          <div class="step">
+            <div class="num">3</div>
+            <div class="content">
+              <div class="hee">有料部後半 ─ 「バックエンドまで<span>計算されている</span>のか！」</div>
+              <div class="desc">複産物・次の商品への導線まで設計されていることで、著者の圧倒的な先見性を体感させる。</div>
+            </div>
+          </div>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

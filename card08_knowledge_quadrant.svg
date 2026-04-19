@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="560" viewBox="0 0 750 560">
+  <foreignObject x="0" y="0" width="750" height="560">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&amp;family=Montserrat:wght@800;900&amp;display=swap"/>
+        <style><![CDATA[
+          *{box-sizing:border-box;margin:0;padding:0;-webkit-font-smoothing:antialiased;}
+          body{width:750px;height:560px;overflow:hidden;background:#fff;padding:32px;}
+          h3{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:20px;font-weight:900;color:#1e293b;margin-bottom:6px;}
+          .subtitle{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:13px;color:#64748b;margin-bottom:20px;}
+          table{width:100%;border-collapse:collapse;font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:13px;margin-bottom:20px;}
+          th,td{padding:14px 16px;border:1px solid #334155;text-align:left;vertical-align:top;line-height:1.6;}
+          th{background:#0f172a;color:#fff;font-weight:900;text-align:center;font-size:13px;}
+          td{background:#fff;}
+          .bad{background:#fef2f2;}
+          .bad .tag{color:#ef4444;font-weight:900;display:block;margin-bottom:6px;font-size:14px;}
+          .insight{background:#fffbeb;border:2px solid #fde047;}
+          .insight .tag{color:#d97706;font-weight:900;display:block;margin-bottom:6px;font-size:14px;}
+          .note{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:14px;color:#1e293b;line-height:1.75;}
+          strong{font-weight:900;}
+          .star{color:#fde047;font-size:18px;}
+        ]]></style>
+      </head>
+      <body>
+        <h3>知の四象限 — あなたのnoteはどこにある？</h3>
+        <p class="subtitle">お金になるのは「②インサイト（盲点）」だけ。AIで①常識をまとめても誰も払わない。</p>
+        <table>
+          <tr>
+            <th style="width:20%"></th>
+            <th style="width:40%;">知るべき（価値がある）</th>
+            <th style="width:40%;">知るべきではない（ノイズ）</th>
+          </tr>
+          <tr>
+            <th>読者が<br/>知っている</th>
+            <td class="bad">
+              <span class="tag">① 常識（お金は払わない）</span>
+              「毎日更新しよう」「見やすい文章を書こう」など、正しいが誰もが知っている基礎知識。
+            </td>
+            <td class="bad">
+              <span class="tag">③ 陳腐なテクニック</span>
+              「意味のない絵文字の多用」など、本質的ではない小手先の技術。
+            </td>
+          </tr>
+          <tr>
+            <th>読者が<br/>知らない</th>
+            <td class="insight">
+              <span class="tag"><span class="star">★</span> ② インサイト・盲点（ここを売る）</span>
+              「フォロワー15人でも濃い客を集める構造」など、読者が気づいていなかったが、知れば確実に行動が変わる核心。
+            </td>
+            <td class="bad">
+              <span class="tag">④ 無駄知識</span>
+              「昨日の自分の晩ごはん」など、読者の課題解決に関係のない個人的な日記。
+            </td>
+          </tr>
+        </table>
+        <p class="note">
+          多くの人が<strong>「①常識」</strong>をAIに綺麗にまとめさせて売ろうとします。しかし、そんなものに誰もお金は払いません。<br/>
+          お金になるのは<strong>「②読者は知らないが、絶対に知るべきだった盲点（インサイト）」</strong>だけです。
+        </p>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

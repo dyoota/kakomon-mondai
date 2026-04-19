@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="380" viewBox="0 0 750 380">
+  <foreignObject x="0" y="0" width="750" height="380">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&amp;family=Montserrat:wght@800;900&amp;display=swap"/>
+        <style><![CDATA[
+          *{box-sizing:border-box;margin:0;padding:0;-webkit-font-smoothing:antialiased;}
+          body{width:750px;height:380px;overflow:hidden;background:#fff;padding:28px 32px;}
+          .section-title{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:13px;font-weight:900;color:#64748b;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:16px;}
+          .grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;}
+          .box{padding:24px 20px;border-radius:8px;border:1px solid;}
+          .before{background:#fef2f2;border-color:#fca5a5;}
+          .after{background:#f0fdf4;border-color:#86efac;}
+          h4{font-family:'Montserrat',sans-serif;font-size:18px;font-weight:900;margin-bottom:14px;}
+          .before h4{color:#ef4444;}
+          .after h4{color:#10b981;}
+          p{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:14px;color:#1e293b;line-height:1.7;margin-bottom:12px;}
+          .result{font-size:13px;font-weight:700;margin-bottom:0;}
+          .before .result{color:#64748b;}
+          .after .result{color:#64748b;}
+          strong{font-weight:900;}
+        ]]></style>
+      </head>
+      <body>
+        <div class="section-title">X投稿 Before / After</div>
+        <div class="grid">
+          <div class="box before">
+            <h4>Before : 読まれない告知</h4>
+            <p><strong>X投稿：</strong>「ChatGPTを使ったnote執筆術を公開しました！初心者でも簡単です。ぜひ読んでください！ URL〜」</p>
+            <p class="result">→ 誰も興味を持たない。情報の価値がゼロ。</p>
+          </div>
+          <div class="box after">
+            <h4>After : 痛みの翻訳（アナロジー）</h4>
+            <p><strong>X投稿：</strong>「noteのタイトル付けは、スーパーの特売シールの色と同じ。内容が良くても『黄色いシール』が貼られていないパック寿司は買われない。あなたが書くべき型は…」</p>
+            <p class="result">→ 意外な比喩で納得させ、続きを読ませる。</p>
+          </div>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

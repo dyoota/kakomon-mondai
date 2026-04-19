@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="420" viewBox="0 0 750 420">
+  <foreignObject x="0" y="0" width="750" height="420">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&amp;family=Montserrat:wght@800;900&amp;display=swap"/>
+        <style><![CDATA[
+          *{box-sizing:border-box;margin:0;padding:0;-webkit-font-smoothing:antialiased;}
+          body{width:750px;height:420px;overflow:hidden;background:#fff;padding:24px 32px;}
+          .section-title{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:13px;font-weight:900;color:#64748b;letter-spacing:0.12em;margin-bottom:16px;}
+          .grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:24px;}
+          .box{padding:22px 18px;border-radius:8px;border:1px solid;}
+          .before{background:#fef2f2;border-color:#fca5a5;}
+          .after{background:#f0fdf4;border-color:#86efac;}
+          h4{font-family:'Montserrat',sans-serif;font-size:17px;font-weight:900;margin-bottom:12px;}
+          .before h4{color:#ef4444;}
+          .after h4{color:#10b981;}
+          p{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:14px;color:#1e293b;line-height:1.7;margin-bottom:10px;}
+          .result{font-size:13px;font-weight:700;color:#64748b;margin-bottom:0;}
+          strong{font-weight:900;}
+          .bubble-row{display:flex;gap:14px;align-items:flex-start;}
+          .avatar{width:56px;height:56px;border-radius:50%;border:3px solid #fff;box-shadow:0 4px 12px rgba(37,99,235,0.2);flex-shrink:0;background:#e2e8f0;overflow:hidden;}
+          .avatar img{width:100%;height:100%;object-fit:cover;}
+          .bubble{background:#fff;padding:16px 18px;border-radius:0 8px 8px 8px;border:2px solid #334155;font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:13px;font-weight:700;color:#1e293b;line-height:1.75;position:relative;margin-top:8px;}
+          .bubble::before{content:'';position:absolute;left:-14px;top:-2px;border-top:16px solid #334155;border-left:16px solid transparent;}
+          .bubble::after{content:'';position:absolute;left:-10px;top:0;border-top:13px solid #fff;border-left:13px solid transparent;}
+        ]]></style>
+      </head>
+      <body>
+        <div class="section-title">記事構成 Before / After</div>
+        <div class="grid">
+          <div class="box before">
+            <h4>Before : 買われない構成</h4>
+            <p><strong>無料部：</strong>ノウハウの触りだけ。<br/><strong>有料部：</strong>「ここから先は具体的な私のエピソードです」と、ただの読み物（続き）を置く。</p>
+            <p class="result">→ 読者の判断コストが高く実装できない。</p>
+          </div>
+          <div class="box after">
+            <h4>After : 迷わせない実用品</h4>
+            <p><strong>無料部：</strong>熱い共感と構造の理解。<br/><strong>有料部：</strong>感情を排した「テンプレ」「チェックリスト」「プロンプト」という完成品を置く。</p>
+            <p class="result">→ そのまま使えるため高単価でも売れる。</p>
+          </div>
+        </div>
+        <div class="bubble-row">
+          <div class="avatar"><img src="character.png" alt="あおあし"/></div>
+          <div class="bubble">
+            「更新しました！」って告知、本気でやってましたからね。<br/>
+            今思うと、誰がこんなのクリックするんだよって話です😇
+          </div>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

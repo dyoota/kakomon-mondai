@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="580" viewBox="0 0 750 580">
+  <foreignObject x="0" y="0" width="750" height="580">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&amp;family=Shippori+Mincho:wght@700;800&amp;family=Montserrat:wght@800;900&amp;display=swap"/>
+        <style><![CDATA[
+          *{box-sizing:border-box;margin:0;padding:0;-webkit-font-smoothing:antialiased;}
+          body{width:750px;height:580px;overflow:hidden;background:#fff;display:flex;align-items:flex-start;padding:32px;}
+          .outer{width:100%;}
+          .pain-box{background:#fff;border:2px dashed #334155;padding:36px;box-shadow:8px 8px 0 #334155;margin-bottom:28px;}
+          h3{font-family:'Shippori Mincho','Yu Mincho',serif;font-size:26px;color:#ef4444;margin-bottom:24px;text-align:center;}
+          ul{list-style:none;padding:0;}
+          li{position:relative;padding-left:32px;margin-bottom:18px;font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:15px;font-weight:700;color:#1e293b;line-height:1.65;}
+          li::before{content:'×';position:absolute;left:0;top:-3px;font-family:'Montserrat',sans-serif;font-size:22px;color:#ef4444;font-weight:900;}
+          .bubble-row{display:flex;gap:16px;align-items:flex-start;}
+          .avatar{width:64px;height:64px;border-radius:50%;border:3px solid #fff;box-shadow:0 4px 12px rgba(37,99,235,0.25);flex-shrink:0;background:#e2e8f0;overflow:hidden;}
+          .avatar img{width:100%;height:100%;object-fit:cover;}
+          .bubble{background:#fff;padding:20px;border-radius:0 8px 8px 8px;border:2px solid #334155;font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:14px;font-weight:700;color:#1e293b;line-height:1.8;box-shadow:4px 4px 0 rgba(0,0,0,0.05);margin-top:10px;position:relative;}
+          .bubble::before{content:'';position:absolute;left:-14px;top:-2px;border-top:16px solid #334155;border-left:16px solid transparent;}
+          .bubble::after{content:'';position:absolute;left:-10px;top:0;border-top:13px solid #fff;border-left:13px solid transparent;}
+        ]]></style>
+      </head>
+      <body>
+        <div class="outer">
+          <div class="pain-box">
+            <h3>私は、完全に間違えていた。</h3>
+            <ul>
+              <li>「AIに書かせれば自動で不労所得」と信じ、記事を量産していた。</li>
+              <li>Xで毎日「更新しました！」と告知しても誰もクリックしない。</li>
+              <li>AI臭を消して「良い文章」を書いたつもりでも、誰にも刺さらない。</li>
+              <li>500円なら数件売れたのに、単価を上げた瞬間、売上がピタッと止まった。</li>
+            </ul>
+          </div>
+          <div class="bubble-row">
+            <div class="avatar"><img src="character.png" alt="あおあし"/></div>
+            <div class="bubble">
+              これ、少し前の私のリアルな悩みです。<br/>
+              毎日パソコン開いては、ダッシュボードの「0」を眺めてため息ついてました…（笑）
+            </div>
+          </div>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

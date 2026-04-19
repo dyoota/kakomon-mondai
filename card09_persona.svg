@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="580" viewBox="0 0 750 580">
+  <foreignObject x="0" y="0" width="750" height="580">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&amp;family=Montserrat:wght@800;900&amp;display=swap"/>
+        <style><![CDATA[
+          *{box-sizing:border-box;margin:0;padding:0;-webkit-font-smoothing:antialiased;}
+          body{width:750px;height:580px;overflow:hidden;background:#fff;padding:28px 32px;}
+          .card{border:1px solid #334155;border-radius:8px;padding:28px;box-shadow:4px 4px 0 rgba(0,0,0,0.05);}
+          .header{display:flex;align-items:center;gap:16px;margin-bottom:20px;border-bottom:1px solid #e2e8f0;padding-bottom:20px;}
+          .emoji{font-size:32px;flex-shrink:0;}
+          h3{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:22px;font-weight:900;color:#1e293b;}
+          .row{display:flex;margin-bottom:10px;font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:14px;color:#1e293b;}
+          .row strong{width:110px;color:#2563eb;flex-shrink:0;font-weight:900;}
+          .insight-row{background:#f8fafc;padding:16px;border-radius:4px;margin-top:16px;}
+          .insight-row .label{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:13px;font-weight:900;color:#0f172a;margin-bottom:8px;}
+          .insight-row p{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:13px;color:#1e293b;line-height:1.75;}
+          .section-title{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:12px;font-weight:900;color:#64748b;letter-spacing:0.1em;margin-bottom:16px;}
+        ]]></style>
+      </head>
+      <body>
+        <div class="section-title">富永流ペルソナ設計 — コアターゲット「田中賢司」</div>
+        <div class="card">
+          <div class="header">
+            <div class="emoji">👤</div>
+            <h3>田中 賢司（35歳・男性）</h3>
+          </div>
+          <div class="row"><strong>職業・年収</strong><span>都内のIT企業 中間管理職 / 年収650万円</span></div>
+          <div class="row"><strong>家族・住居</strong><span>妻と子供1人 / 横浜市内（通勤45分）</span></div>
+          <div class="row"><strong>価値観</strong><span>効率重視。自分の時間を増やしたい。</span></div>
+          <div class="row"><strong>決済行動</strong><span>クレカ、PayPay等を使い分け。手続きの煩雑さを嫌う。</span></div>
+          <div class="insight-row">
+            <div class="label">【朝7時の内面描写（インサイト）】</div>
+            <p>
+              通勤電車でXを流し見し、成功者の投稿に目を留めるが「自分には関係ない」と考える。ChatGPTを開いても何を聞くべきか分からず、noteは下書きが溜まったまま。「行動を起こせていない自分」を変えたいが、本業が忙しく時間がない。<br/>
+              彼が求めているのは、自分と同じような人が短期間で成功した<strong>「証拠」</strong>と、そのための<strong>「道具一式（テンプレ）」</strong>である。
+            </p>
+          </div>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

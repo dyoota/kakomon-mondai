@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="320" viewBox="0 0 750 320">
+  <foreignObject x="0" y="0" width="750" height="320">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&amp;family=Shippori+Mincho:wght@700;800&amp;display=swap"/>
+        <style><![CDATA[
+          *{box-sizing:border-box;margin:0;padding:0;-webkit-font-smoothing:antialiased;}
+          body{width:750px;height:320px;overflow:hidden;background:#f8fafc;display:flex;align-items:center;}
+          .box{border-left:6px solid #1e293b;padding:36px 40px;width:100%;}
+          .quote{font-family:'Shippori Mincho','Yu Mincho',serif;font-size:26px;font-weight:800;color:#1e293b;line-height:1.6;margin-bottom:24px;}
+          p{font-family:'Noto Sans JP','Hiragino Sans',sans-serif;font-size:16px;color:#1e293b;line-height:1.9;}
+          strong{font-weight:900;}
+        ]]></style>
+      </head>
+      <body>
+        <div class="box">
+          <div class="quote">「noteは『質』で売れるんじゃない。<br/>『迷いのなさ』で売れるんだ。」</div>
+          <p>
+            読者がお金を払うのは「情報」ではありません。「自分の代わりに悩み、判断を下してくれる基準」です。<br/>
+            読者に考えさせる文章は、絶対に売れない。<strong>「読者の意思決定コストを極限まで下げること」</strong>こそが、唯一の勝ち筋だったんです。
+          </p>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>
